@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://github.com/Aakash-gith.png" width="220" alt="Aakash profile picture" style="border-radius: 50%; border: 3px solid #30363d;" />
-
 <img src="https://capsule-render.vercel.app/api?type=rect&height=88&section=header&text=Hey%20there!%20I'm%20Aakash%20👋&fontSize=44&fontColor=f3f6f4&fontAlign=50&fontAlignY=38&desc=Full-Stack%20Dev%20%7C%20Freelancer%20%7C%20Creative%20Developer&descSize=18&descAlign=50&descAlignY=74&color=0:4a148c,100:2e5aac" width="100%" />
 
 </div>
